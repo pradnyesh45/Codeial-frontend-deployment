@@ -195,7 +195,7 @@ code {
 /* NAVBAR */
 .nav {
   display: flex;
-  background: #6200ee;
+  background: #e60000;
   padding: 10px 20px;
   align-items: center;
   justify-content: space-between;
@@ -364,7 +364,7 @@ nav .nav-links ul li:hover {
 .login-signup-header {
   font-weight: 600;
   font-size: 30px;
-  color: #ef7917;
+  color: #009933;
 }
 .login-form {
   background-color: #fff;
@@ -397,7 +397,7 @@ nav .nav-links ul li:hover {
 .field button {
   width: 100%;
   margin-top: 20px;
-  background: #ef7917;
+  background: #009933;
   border-radius: 2px;
   color: #fff;
   font-size: 20px;
@@ -450,18 +450,18 @@ nav .nav-links ul li:hover {
   outline: none;
 }
 .settings .edit-btn {
-  border: 1px solid #ef7917;
+  border: 1px solid #009933;
   box-sizing: border-box;
-  color: #ef7917;
+  color: #009933;
 }
 .settings .save-btn {
-  background: #ef7917;
+  background: #009933;
   color: #fff;
   border: none;
   padding: 10px 20px;
 }
 .settings .go-back {
-  color: #ef7917;
+  color: #009933;
   margin-top: 7px;
   font-size: 13px;
 }
@@ -512,7 +512,7 @@ nav .nav-links ul li:hover {
   height: 42px;
   left: 111.5px;
   top: 0px;
-  background: #ef7917;
+  background: #009933;
   border-radius: 3px;
   color: #fff;
   font-size: 16px;
